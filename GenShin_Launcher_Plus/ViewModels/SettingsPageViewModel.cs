@@ -496,11 +496,11 @@ namespace GenShin_Launcher_Plus.ViewModels
         {
             if (new ConvertService().GetCurrentSchemeName() == "CnFile")
             {
-                FileHelper.OpenUrl("https://download.ganyu.us.kg/now/GenshinImpact/GlobalFile.pkg");
+                FileHelper.OpenUrl("https://download.xingdream.top/now/GenshinImpact/GlobalFile.pkg");
             }
             else
             {
-                FileHelper.OpenUrl("https://download.ganyu.us.kg/now/GenshinImpact/CnFile.pkg");
+                FileHelper.OpenUrl("https://download.xingdream.top/now/GenshinImpact/CnFile.pkg");
             }
         }
 
@@ -509,11 +509,11 @@ namespace GenShin_Launcher_Plus.ViewModels
         {
             if (new ConvertService().GetCurrentSchemeName() == "CnFile")
             {
-                FileHelper.OpenUrl("https://download.ganyu.us.kg/pre/GenshinImpact/GlobalFile.pkg");
+                FileHelper.OpenUrl("https://download.xingdream.top/pre/GenshinImpact/GlobalFile.pkg");
             }
             else
             {
-                FileHelper.OpenUrl("https://download.ganyu.us.kg/pre/GenshinImpact/CnFile.pkg");
+                FileHelper.OpenUrl("https://download.xingdream.top/pre/GenshinImpact/CnFile.pkg");
             }
         }
 
